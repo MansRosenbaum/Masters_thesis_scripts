@@ -8,9 +8,6 @@ Separate codes were created to automize the MolDStruct pipeline depending on wha
 
 **Descriptions**
 
-analysis_2runs.ipynb
-- An analysis-notebook not used in the report which shows the effect of putting two single datasets (Run 0 and Run 8) in the same space before using dimensionality reduction techniques.             
-
 analysis_all_datasets.ipynb
  - Notebook for creating ion maps, movies and using dimensionality reduction methods for all-dataset runs.                                           
 
@@ -19,6 +16,9 @@ analysis_correlations_all_datasets.ipynb
 
 analysis_single_dataset.ipynb
  - Notebook for creating ion maps, movies and using dimensionality reduction methods for single-dataset runs.
+
+analysis_2runs.ipynb
+- An analysis-notebook which shows the effect of putting two single datasets (Run 0 and Run 8) in the same space before using dimensionality reduction techniques. These results are not used in the report.        
 
 failed_runs.ipynb
  - Script made to search for the MolDStruct folders for failed simulations. This could tell the user how many fails the were, what folder they are in and were the fail occured (by comparing the content of the folder with a successful run, revealing what files that are missing in the failed run). These were only a small fraction of the total number of simulations and are thus not significant in this thesis.
