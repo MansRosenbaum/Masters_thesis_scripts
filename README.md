@@ -1,6 +1,6 @@
 # Masters_thesis_scripts
 
-This repository includes the scripts I have made both to automize and run MolDStruct, but also for creating structures from E-feild simulation data, doing analyses, fail-searching and certain plots. 
+This repository includes the scripts I have made both to automize and run MolDStruct, but also for creating structures from E-field simulation data, doing analyses, fail-searching and certain plots. 
 
 The data from simulations of proteins exposed to an external electric field was taken from A.Sinelnikova, https://doi.org/10.1039/D0SC06008A. This includes E-field simulation trajectory files and topology files.
 
