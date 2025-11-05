@@ -21,10 +21,10 @@ analysis_2runs.ipynb
 - An analysis-notebook which shows the effect of putting two single datasets (Run 0 and Run 8) in the same space before using dimensionality reduction techniques. These results are not used in the report.        
 
 failed_runs.ipynb
- - Script made to search for the MolDStruct folders for failed simulations. This could tell the user how many fails the were, what folder they are in and were the fail occured (by comparing the content of the folder with a successful run, revealing what files that are missing in the failed run). These were only a small fraction of the total number of simulations and are thus not significant in this thesis.
+ - Script made to search for the MolDStruct folders for failed simulations. This could tell the user how many fails there were, what folder they are in and where the fail occured (by comparing the content of the folder with a successful run, revealing what files that are missing in the failed run). These were only a small fraction of the total number of simulations and are thus not significant in this thesis.
 
 gaussian_pulse.ipynb
- - Notebook for plotting a Gaussian curve symbolizing the laser pulse in MolDStruct, Figure 5 in the report.
+ - Notebook for plotting a Gaussian curve symbolising the laser pulse in MolDStruct, Figure 5 in the report.
 
 make_structures.ipynb
  - Notebook for exctracting the 101 structures from E-field simulation trajectory files.
@@ -47,7 +47,8 @@ Parameters for running MolDStruct simulations such as timesteps, photon energy, 
 
 You must have MolDStruct downloaded beforehand and change the directory pathway.
 
-
+My thesis can be found here:
+https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1977739&dswid=-8924
 
 
 
